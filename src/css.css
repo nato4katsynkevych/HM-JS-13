@@ -1,0 +1,9 @@
+.images{
+	width: 350px;
+	height: 350px;
+	display: flex;
+}
+.photo-card{
+	display: flex;
+	flex-direction: row;
+}
